@@ -13,14 +13,14 @@ def calculate_circle_area(radius):
 
 ## Bonus Challenges
 
-- Modify the function to handle negative radii gracefully and return an error message. **[+5 extra credit points]**
+- Modify the function to handle negative radii gracefully and return an error message. (Hint: use the `assert` statement) **[+5 extra credit points]**
 
-- Create a Python script that prompts the user to input a radius and then displays the calculated area. **[+5 extra credit points]**
+- Create a Python script that prompts the user to input a radius and then displays the calculated area. (Hint: use the `input` function) **[+5 extra credit points]**
 
-- Enhance the function to round the calculated area to a specified number of decimal places. **[+5 extra credit points]**
+- Enhance the function to round the calculated area to a specified number of decimal places. (Hint: use the `round` function) **[+5 extra credit points]**
 
 ## How to answer?
 
-- Navigate to the src directory and edit the `solution.py` file.
+- Navigate to the `src` directory and edit the `solution.py` file.
 
 - Replace the `pass` with your solution.
