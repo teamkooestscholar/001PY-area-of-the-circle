@@ -23,4 +23,4 @@ def calculate_circle_area(radius):
 
 - Navigate to the src directory and edit the `solution.py` file.
 
-- Replace the `commented code` with your solution.
+- Replace the `pass` with your solution.
