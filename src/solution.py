@@ -7,4 +7,4 @@ def calculate_circle_area(radius):
 
 
 num = float(input("Enter the radius of a circle: "))
-print("The area is --> ", round(calculate_circle_area(num)))
+print("The area is --> ", round(calculate_circle_area(num),3))
