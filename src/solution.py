@@ -1,3 +1,4 @@
-# Write a function that calculates the area of a circle by a given radius.
-def calculate_circle_area(_):
-    pass
+import math as M  
+Radius = float (input ("Please enter a radius: "))  
+area_of_circle = M.pi* Radius * Radius
+print (" The area for the circle is: ", area_of_circle)  
