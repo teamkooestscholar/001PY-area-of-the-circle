@@ -18,7 +18,7 @@ try:
 
     decimal_place = int(input("Enter the number of decimal places for rounding: " ))
 
-    area = round(3.14 * r * r, decimal_place)
+    area = round(3.14159265359 * r ** 2, decimal_place)
 
     print("The area of the circle is ", area)
 except ValueError:
