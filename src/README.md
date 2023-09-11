@@ -37,9 +37,3 @@ After obtaining the radius from the user, the program calculates the area of the
 area = calculate_circle_area(radius)
 print(f"The area of the circle with radius {radius} is {area}")
 ```
-
-## Error Handling
-
-The program assumes that the user will provide a valid numeric value for the radius. If the user enters a non-numeric value, a ValueError will be raised. You can further enhance error handling by adding try-except blocks to handle such exceptions.
-
-This program calculates the area of a circle accurately based on the user's input radius.
